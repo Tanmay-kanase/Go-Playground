@@ -73,6 +73,13 @@ func main() {
 	type ScoreMap = map[string]int
 	var sm ScoreMap = map[string]int{"Math": 90, "CS": 95} // alias type
 
+    // ________________________________
+	// ✅ Declare Multiple Values 
+	// ________________________________
+
+	var n,m,t,y = 1,2,"Tanmay" , false
+
+	fmt.Printf("Multiple Valuse = %d , %d , %s , %t\n", n,m,t,y)
 	fmt.Printf("aInt = %d\n", aInt)
 	fmt.Printf("aInt8 = %d\n", aInt8)
 	fmt.Printf("aInt16 = %d\n", aInt16)
