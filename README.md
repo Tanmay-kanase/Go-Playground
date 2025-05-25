@@ -25,13 +25,8 @@ Go-Playground/
 ├── ch07_goroutines_channels/ # Goroutines, channels, concurrency
 ├── ch08_concurrency/ # Pipelines, cancellations, timers
 ├── ch09_packages_testing/ # Packages, unit testing, benchmarking
-├── ch10_reflection/ # Reflection, unsafe package
-├── notes/ # Conceptual summaries, key takeaways
+├── ch10_reflection/ # Reflection, unsafe package 
 └── README.md
-
-yaml
-Copy
-Edit
 
 Each folder contains self-contained code examples, annotated programs, and exploratory exercises that align with the corresponding chapter.
 
@@ -79,9 +74,9 @@ I follow a disciplined learning habit by committing daily progress. This helps r
 
 If you are also learning Go or wish to discuss concepts and ideas related to Go development, feel free to connect:
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your-linkedin-url]
-- 🌍 GitHub: [github.com/your-username]
+- 📧 Email: [tanmaykanase07@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/tanmay-kanase]
+- 🌍 GitHub: [github.com/Tanmay-kanase]
 
 ---
 
